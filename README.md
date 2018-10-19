@@ -1,0 +1,1 @@
+### Practices based on [SymPy Tutorial](http://docs.sympy.org/latest/tutorial/index.html)
